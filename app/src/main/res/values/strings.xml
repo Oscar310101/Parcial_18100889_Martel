@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Parcial_18100889_Martel</string>
+
+    <string name="txUsu">Usario o correo</string>
+    <string name="txPas">Password</string>
+    <string name="tvUsuario">Ingrese usuario</string>
+    <string name="tvPassword">Ingrese password</string>
+    <string name="btnIngresar">INGRESAR</string>
+
+    <string name="btnimc">IMC</string>
+    <string name="btnsigno">Signo Zodiacal</string>
+    <string name="btnGene">Generaciones</string>
+    <string name="btnRegr">REGRESAR</string>
+    <string name="btnOp">Opciones</string>
+
+    <string name="btnCal">Calcular</string>
+    <string name="Peso">Peso</string>
+    <string name="Estatura">Estatura</string>
+    <string name="IMCRESULTADO">IMC RESULTADO</string>
+
+
+    <string name="zo">SIGNO ZODIACAL</string>
+    <string name="fecha">Ingrese Fecha</string>
+    <string name="btnZO">CONSULTAR</string>
+</resources>
